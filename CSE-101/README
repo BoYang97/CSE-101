@@ -1,0 +1,14 @@
+Julian Lehrer
+1661029
+CSE101
+10/12/19
+
+Description: This program uses a List ADT to create the Lex program, which takes in an input file and produces an output file with the same lines as the input, but arranged in lexographical order.
+
+Files being submitted:
+List.h
+List.c
+ListClient.c
+Lex.c
+Makefile
+README

@@ -1,0 +1,19 @@
+jmlehrer
+1661029
+CSE101
+10/29/19
+
+
+Description: 
+This program creates an executable called Sparse, which is a client demonstrating Matrix.c, a C ADT that is used for performing calculations on sparse matrices efficiently.
+
+Files being submitted:
+Sparse.c
+Matrix.c
+Matrix.h
+MatrixTest.c
+List.c
+List.h
+ListTest.c
+Makefile
+README
