@@ -1,0 +1,16 @@
+Julian Lehrer
+1661029
+CSE 101
+11/29/19
+
+Description: This program implements the Graph ADT. It uses the adjaceny list implementation to efficiently perform operations on the Graph object. Additionally, a corollary program FindPath uses the built-in BFS of the Graph object to find shortest paths between vertices, as well as other information.
+
+Files being submitted:
+List.c
+List.h
+Graph.c
+Graph.h
+GraphTest.c
+FindPath.c
+Makefile
+README
